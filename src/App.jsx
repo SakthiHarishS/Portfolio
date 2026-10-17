@@ -167,7 +167,7 @@ export default function App() {
           <div className="hero-container">
             <div>
               <div className="hero-tag">
-                <Globe size={14} color="var(--orange-accent)" /> OPEN TO UAE & GLOBAL OPPORTUNITIES
+                <Globe size={14} color="var(--orange-accent)" /> OPEN TO GLOBAL OPPORTUNITIES
               </div>
               <h1 className="hero-name">SAKTHI HARISH S</h1>
               <p className="hero-desc">
