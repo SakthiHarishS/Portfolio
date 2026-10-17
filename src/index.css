@@ -242,29 +242,6 @@ body {
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
 }
 
-.side-badge {
-  position: absolute;
-  right: -30px;
-  top: 50%;
-  transform: rotate(90deg) translateY(-50%);
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  color: var(--text-muted);
-  font-size: 0.65rem;
-  letter-spacing: 1.5px;
-  font-weight: 700;
-  z-index: 3;
-  white-space: nowrap;
-}
-
-.dot-orange {
-  width: 6px;
-  height: 6px;
-  background: var(--orange-accent);
-  border-radius: 50%;
-}
-
 /* Sections Grid Alignment */
 section {
   scroll-margin-top: 60px;
@@ -550,10 +527,6 @@ section {
   .section-inner {
     grid-template-columns: 1fr;
     gap: 1.5rem;
-  }
-
-  .side-badge {
-    display: none;
   }
 
   .form-grid {
