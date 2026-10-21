@@ -179,7 +179,7 @@ export default function App() {
                   HIRING OPPORTUNITIES <ArrowUpRight size={14} />
                 </a>
                 <a href="/Sakthi_Harish_S_Resume.pdf" download className="btn-link-resume">
-                  DOWNLOAD RESUME <Download size={14} />
+                         DOWNLOAD RESUME <Download size={14} />
                 </a>
               </div>
 
